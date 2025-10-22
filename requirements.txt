@@ -1,0 +1,10 @@
+# Core scientific computing and data manipulation
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Machine learning library
+scikit-learn>=1.1.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
