@@ -12,3 +12,4 @@ Make a Python environment with packages in `requirements.txt`.
 - Graph Traversal (BFS/DFS)
 - Recursion/Memoization/Dynamic Programming
 - Simple Reinforcement Learning
+- Naive Bayes Classifier
